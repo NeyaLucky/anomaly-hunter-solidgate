@@ -1,0 +1,7 @@
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+submission.ipynb
+hackathon_int20h_dataset_test.csv
